@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Order Diesel</string>
+
+    <string-array name="address_type">
+        <item> Residential </item>
+        <item> Business</item>
+    </string-array>
+
+    <string-array name="state">
+        <item> Andaman and Nicobar </item>
+        <item> Andhra Pradesh </item>
+        <item> Arunachal Pradesh </item>
+        <item> Assam </item>
+        <item> Bihar </item>
+        <item> Chandigarh </item>
+        <item> Dadra and Nagar Haveli and Daman and Diu </item>
+        <item> Delhi </item>
+        <item> Goa </item>
+        <item> Gujarat </item>
+        <item> Haryana </item>
+        <item> Himachal Pradesh </item>
+        <item> Jammu and Kashmir </item>
+        <item> Jharkhand </item>
+        <item> Karnataka </item>
+        <item> Kerala </item>
+        <item> Ladakh </item>
+        <item> Lakshadweep </item>
+        <item> Madhya Pradesh </item>
+        <item> Maharashtra </item>
+        <item> Manipur </item>
+        <item> Meghalaya </item>
+        <item> Mizoram </item>
+        <item> Nagaland </item>
+        <item> Odisha </item>
+        <item> Puducherry </item>
+        <item> Punjab </item>
+        <item> Rajasthan </item>
+        <item> Sikkim </item>
+        <item> Tamil Nadu </item>
+        <item> Telangana </item>
+        <item> Tripura </item>
+        <item> Uttar Pradesh </item>
+        <item> Uttarakhand </item>
+        <item> West Bengal </item>
+    </string-array>
+
+    <string name="name">Name</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="privacy_policy">Privacy Polish</string>
+    <string name="my_address">My Address</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="share_app">Share App</string>
+    <string name="logout">Log Out</string>
+    <string name="upcoming_order">Upcoming Order</string>
+    <string name="month">Month</string>
+    <string name="qty">Oty(Lts)</string>
+    <string name="quantity">Quantity</string>
+    <string name="Amount_rs">Amount(RS)</string>
+    <string name="Amount">Amount</string>
+    <string name="Upcoming">Upcoming Orders</string>
+    <string name="past_order">Past Orders</string>
+    <string name="date">Date</string>
+</resources>

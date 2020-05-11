@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+android:gravity="bottom"
+android:layout_gravity="bottom">
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/home" android:id="@+id/home"
+            android:layout_weight="1"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/history" android:id="@+id/orderHistory"
+            android:layout_weight="1"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/analytics" android:id="@+id/orderAnalytics"
+            android:layout_weight="1"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/settings" android:id="@+id/settings"
+            android:layout_weight="1"/>
+</LinearLayout>
